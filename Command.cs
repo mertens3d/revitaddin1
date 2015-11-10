@@ -22,6 +22,12 @@ namespace RevitAddin1
             //  MessageBox.Show("before");
             Form1 dog = new Form1();
             dog.Show();
+
+
+
+            UserControl1 cat = new UserControl1();
+            cat.Show();
+
             //MessageBox.Show("after");
 
             UIApplication uiapp = commandData.Application;

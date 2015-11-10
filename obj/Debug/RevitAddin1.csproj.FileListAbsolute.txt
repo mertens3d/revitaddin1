@@ -1,6 +1,10 @@
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\bin\Debug\RevitAddin1.dll
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\bin\Debug\RevitAddin1.pdb
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\bin\Debug\de\RevitAddin1.resources.dll
+C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\UserControl1.baml
+C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\UserControl1.g.cs
+C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1_MarkupCompile.cache
+C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.g.resources
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.Form1.resources
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.Resource1.resources
 C:\Users\gregory\Documents\GitHub\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.Form1.de.resources
